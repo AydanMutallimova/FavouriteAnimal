@@ -1,0 +1,25 @@
+h1{
+	border: ridge;
+	border-radius: 10px;
+	text-align: center;
+	color: brown;
+	background-color: lightblue;
+	margin-top: 0;
+}
+
+p{
+	text-transform: uppercase;
+	border: dotted;
+	border-radius: 3px;
+	line-height: 3;
+	border-color: coral;
+	text-decoration-color: blueviolet;
+	background-color: aquamarine;
+
+}
+
+img{
+    border-radius: 6px;
+    margin-left: 470px;
+}
+
